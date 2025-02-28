@@ -1,6 +1,6 @@
 ### Hi there, I'm Ifraheem! 👋  
 
-💻 I'm a **Software Engineer** with expertise in **Python, Django, Flask, and FastAPI**  
+💻 I'm a **Software Engineer** with expertise in **Python, Django, Flask, FastAPI and MERN Stack**  
 🔭 Currently diving deep into the world of **DevOps**  
 👯 Looking to collaborate on **exciting DevOps projects**  
 🌱 Currently learning **Golang** and exploring its power 🚀  
